@@ -7,4 +7,4 @@ It's not responsive since I couldn't use Bootstrap or any external libraries but
 
 You're free to use or develop it, but metion the source of it !
 
-Check the live preview from Here or Here
+Check the live preview from <a href="https://daviddoaa.me/CarsWize/" target="_blank">Here</a> or <a href="https://david-maximous.github.io/CarsWize/" target="_blank">Here</a>
